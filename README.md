@@ -15,5 +15,7 @@ Some libraries which are needed to run the file Titanic_prediction.ipynb. Instal
 
 > pip install matplotlib timeit sklearn pandas numpy tpot xgboost
 
-If any modification or column drop for dataset is there, then feel free to suggest. :+1: 
+For most data sets there’s still a lot of data cleaning, feature engineering, and final model selection to do - not to mention the most important step of asking the right questions up front. Then you might need to productionize your model. And TPOT isn’t doing exhaustive searches yet. So TPOT isn’t going to replace the data scientist role — but this tool might make your final machine learning algorithms better faster.
+
+If any modification or suggestion, then feel free to suggest. :+1: 
 
